@@ -38,11 +38,18 @@ const config = {
   },
   sidebar: {
     forcedNavOrder: [
-      '/introduction', // add trailing slash if enabled above
-      '/codeblock',
+      '/layout',
+      '/menu',
+      '/history',
+      '/editing',
+      '/space',
+      '/percentage',
+      '/widget'
+      //'/introduction', // add trailing slash if enabled above
+      //'/codeblock',
     ],
     collapsedNav: [
-      '/codeblock', // add trailing slash if enabled above
+      //'/codeblock', // add trailing slash if enabled above
     ],
     links: [{ text: 'Calcsmos', link: 'https://waterworld.com.hk/calcsmos' }],
     frontline: false,

@@ -4,7 +4,9 @@ metaTitle: "This is the title tag of this page"
 metaDescription: "This is the meta description"
 ---
 
-Some introduction text. Lists out all the headings from h1 to h6. Markdown link handling for relative and absolute URLs. Easy to customise.
+The history pane is consists of two parts.  At the top, it's
+the calculation history of current spaces.  At the botto, it's
+the current calcuation.
 
 # Heading H1
 TEST 1 text
