@@ -43,6 +43,7 @@ const config = {
       '/history',
       '/editing',
       '/space',
+      '/settings',
       '/percentage',
       '/widget'
       //'/introduction', // add trailing slash if enabled above
