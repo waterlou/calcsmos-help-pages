@@ -1,3 +1,6 @@
+# calcsmos-help-pages
+This is the help page of Calcsmos app hosted in https://calcsmos-help-pages.netlify.app
+
 # gatsby-gitbook-starter
 
 Kick off your project with this starter to create a powerful/flexible docs/tutorial web apps.

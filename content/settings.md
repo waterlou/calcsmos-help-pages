@@ -28,11 +28,6 @@ Buttons: If select "Simple Only", the app will not convert to scientific calcula
 
 Show timestamp: Choose to show the timestamp or not.
 
-On Start: The default position of the history pane when the app start.
-  - Show: show the history pane cover most screen except the calculator.
-  - Peek: only show at the top few rows.
-  - Hidden: Hide the history pane.
-
 ## Actions
 
 You can hide actions that you don't need.
